@@ -1,4 +1,4 @@
-# AnimalCareCentre - README
+# Animal Care Centre
 <p align="center">
   <img src="src/main/resources/banner.png" alt="AnimalCareCentre Banner" width="100%">
 </p>
